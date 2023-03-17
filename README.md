@@ -6,3 +6,7 @@ The original course was developed by Chanin Nantasenamat (aka Data Professor).
 
 Youtube Channel: [Data Professor](https://www.youtube.com/dataprofessor)    
 Medium: [Data Professor](https://data-professor.medium.com/)
+Source Github Repository: [streamlit_freecodecamp](https://github.com/dataprofessor/streamlit_freecodecamp)
+
+
+*The images used in this library are generated using [DALL-E](https://labs.openai.com/)*
