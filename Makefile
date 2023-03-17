@@ -1,4 +1,5 @@
 stockprice:
-	streamlit run ./simple-stock-price.py
+	streamlit run ./simple-stock-price/app.py
 
-.PHONY: stockprice
+
+.PHONY: stockprice dnacount
