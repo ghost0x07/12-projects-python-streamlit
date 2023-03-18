@@ -4,4 +4,7 @@ stockprice:
 dnacount:
 	cd dna_count/; streamlit run ./app.py
 
-.PHONY: stockprice dnacount
+basketball:
+	cd eda_basketball/; streamlit run ./app.py
+
+.PHONY: stockprice dnacount basketball
