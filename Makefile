@@ -7,4 +7,7 @@ dnacount:
 basketball:
 	cd eda_basketball/; streamlit run ./app.py
 
-.PHONY: stockprice dnacount basketball
+classification_iris:
+	cd classification_iris/; streamlit run ./app.py
+
+.PHONY: stockprice dnacount basketball football classification_iris
